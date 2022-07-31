@@ -1,4 +1,4 @@
-2021 Latin America Robotics SyposiumWinter Simulation Conference (WSC)
+ 2021 Latin American Robotics Symposium (LARS)
 
 Python code for the paper Engagement Decision Support for Beyond Visual Range Air Combats.
 
