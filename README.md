@@ -6,9 +6,9 @@ This work aims to provide an engagement decision support tool for Beyond Visual 
 
 Please check the ipynb files:
 
-1-Exploratory_Data_Analysis.ipynb: First overview in the dataset;
-2-Feature_Engineering.ipynb: Feature selection techniques using ANOVA-f Statistic and Mutual Information Statistics;
-3-Feature_Selection.ipynb: Feature selection techniques using ANOVA-f Statistic and Mutual Information Statistics;
-4-XGBoost_Regression.ipynb: Extreme Gradient Boosting Regression Model.
+* 1-Exploratory_Data_Analysis.ipynb: First overview in the dataset;
+* 2-Feature_Engineering.ipynb: Feature engineering tecniques to create new features and figure out more information about the dataset;
+* 3-Feature_Selection.ipynb: Feature selection techniques using ANOVA-f Statistic and Mutual Information Statistics;
+* 4-XGBoost_Regression.ipynb: Extreme Gradient Boosting Regression Model.
 
 There is no data folder because the missile launch data from the beyond visual range simulations was not allowed to be released at this moment.
